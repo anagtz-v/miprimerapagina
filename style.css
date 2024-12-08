@@ -1,0 +1,33 @@
+/*COLOR DE FONDO*/
+body{
+    background-color: #f0cc91;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    
+}
+
+.nombreserie {
+    width: 600px;
+    border-radius: 20px;
+}
+
+.promo {
+    width: 390px;
+    border-radius: 20px;
+}
+
+.actorperseason {
+    background-color: #c08f0f;
+    background-image: url("https://i.pinimg.com/736x/62/c9/08/62c9084c94d19a9560a0c5431ba6d1cc.jpg") ;
+    font-size: 20px;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.imagenes {
+    text-align: center;
+}
+
